@@ -1,6 +1,19 @@
 # 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project includes all the main steps of data analysis — from preparing and modeling data to finding insights, creating visuals, and making reports.
 
+## 📌 Business Problem Statement
+
+A leading retail company wants to better understand its customers' shopping behavior in order to improve sales, customer satisfaction, and long-term loyalty.  
+The management team has noticed changes in purchasing patterns across demographics, product categories, and sales channels (online vs. offline).  
+
+They are particularly interested in uncovering which factors — such as **discounts, reviews, seasons, or payment preferences** — drive consumer decisions and repeat purchases.
+
+### 🎯 Objective
+Analyze the company’s consumer behavior dataset to answer the key business question:
+
+**How can the company leverage consumer shopping data to identify trends, improve customer engagement, and optimize marketing and product strategies?**
+
+---
 
 
 ## 📌 Project Overview
